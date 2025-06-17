@@ -3,13 +3,12 @@
 ### 🚀 About Me
 - 💻 **Full Stack Developer** passionate about building scalable web applications
 - 🎓 Currently learning and exploring modern web technologies
-- 🌱 Focused on **MERN Stack, React, Redux, Java**, and full-stack development
+- 🌱 Focused on **MERN Stack, React, Java**, and full-stack development
 - ⚡ Fun fact: I love turning ideas into code and solving real-world problems
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
