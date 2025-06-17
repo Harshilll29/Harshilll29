@@ -1,4 +1,4 @@
-# Hi there, I'm Harshil! 👋
+# Heyy there, I'm Harshil! 👋
 
 ### 🚀 About Me
 - 💻 **Full Stack Developer** passionate about building scalable web applications
@@ -28,6 +28,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshilll29&layout=compact&theme=radical)
 
 ### 🎯 Featured Projects
+- ✍🏼 **[BlogSpace](https://github.com/Harshilll29/BlogSpace)** - Morden blogging website build with MERN
 - 🗂️ **[PasteApplication](https://github.com/Harshilll29/PasteApplication)** - React-Redux paste sharing app with search, copy, and share features
 - 🏧 **[ATM System](https://github.com/Harshilll29/ATM)** - Java-based ATM simulation system
 - 🎮 **[Game Project](https://github.com/Harshilll29/Game)** - Interactive game built with Java
