@@ -39,6 +39,7 @@ const harshil = {
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +59,9 @@ const harshil = {
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ---
@@ -94,21 +97,12 @@ React-Redux powered paste sharing application for creating, editing, and managin
 
 ---
 
-### 🏧 [ATM System](https://github.com/Harshilll29/ATM)
-> **Java-based Banking Simulation**
+### 📊 [Salesman Tracking System](https://github.com/Harshilll29/Salesman-Tracking)
+> **Enterprise Sales Management Platform**
 
-Comprehensive ATM simulation system demonstrating OOP principles, secure transaction handling, and user account management.
+Comprehensive salesman tracking and management system built with React and Spring Boot. Features real-time tracking, performance analytics, order management, and admin dashboard for monitoring sales activities.
 
-**Tech:** Java • OOP • Console Application
-
----
-
-### 🎮 [Game Project](https://github.com/Harshilll29/Game)
-> **Interactive Java Game**
-
-Engaging interactive game built with Java, showcasing game logic, user interaction, and event handling.
-
-**Tech:** Java • Swing • Game Development
+**Tech:** React • Spring Boot • MySQL • REST API • Docker
 
 </div>
 
@@ -118,17 +112,12 @@ Engaging interactive game built with Java, showcasing game logic, user interacti
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshilll29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshilll29&theme=tokyonight" alt="GitHub Streak Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshilll29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshilll29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshilll29&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshilll29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshilll29&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
