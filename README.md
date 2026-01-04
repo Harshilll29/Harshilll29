@@ -98,11 +98,11 @@ React-Redux powered paste sharing application for creating, editing, and managin
 ---
 
 ### 📊 [Salesman Tracking System](https://github.com/Harshilll29/Salesman-Tracking)
-> **Enterprise Sales Management Platform**
+> **Sales Management Dashboard**
 
-Comprehensive salesman tracking and management system built with React and Spring Boot. Features real-time tracking, performance analytics, order management, and admin dashboard for monitoring sales activities.
+Comprehensive salesman tracking and management system built with React. Features performance analytics, order management, and dashboard for monitoring sales activities and team performance.
 
-**Tech:** React • Spring Boot • MySQL • REST API • Docker
+**Tech:** React • JavaScript • CSS
 
 </div>
 
@@ -112,11 +112,11 @@ Comprehensive salesman tracking and management system built with React and Sprin
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshilll29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshilll29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshilll29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshilll29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshilll29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshilll29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
